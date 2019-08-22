@@ -1,0 +1,19 @@
+body{
+    background: #000 url("photo2.png") no-repeat center fixed;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+}
+
+#topMenu{
+    height: 100px;
+    text-align: center;
+    background-color:#222;
+    color:#FFF;
+    border-bottom: 3px solid #B3424A;
+}
+
+#home{
+    text-align:center;
+}
